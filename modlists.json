@@ -780,4 +780,44 @@
     "dateUpdated": "2025-04-25T00:43:28.5512693Z",
     "repositoryName": ""
   }
+  {
+    "title": "Morkeskygge",
+    "description": "A gritty, dark fantasy overhaul that aims to bring the essence of the Souls games into Skyrim Anniversary Edition - more notably, Bloodborne. Be warned - this modlist is not for the faint of heart. Are you ready for Bloodborne on PC?"
+    "author": "Seiji",
+    "maintainers": [
+      "github/heroofkvackers"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Creation Club",
+      "Anniversary Edition",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "",
+      "readme": "https://raw.githubusercontent.com/heroofkvackers/morkeskygge/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Morkeskygge.wabbajack_1b3f30cf-c8d7-4dcf-b2c8-10770e9772e0",
+      "machineURL": "morkeskygge",
+      "discordURL": "https://discord.gg/X9dzSjRjSr",
+      "websiteURL": "",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "9SonzCSVaTQ=",
+      "Size": 2068978787,
+      "NumberOfArchives": 723,
+      "SizeOfArchives": 92271978040,
+      "NumberOfInstalledFiles": 222415,
+      "SizeOfInstalledFiles": 157851819039,
+      "TotalSize": 250123797079
+    },
+    "version": "1.0.0" 
+  },
 ]
